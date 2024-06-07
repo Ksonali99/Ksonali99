@@ -15,6 +15,11 @@ I'm currently working on:
 * Building interactive data visualizations using Power BI
 * Exploring advanced statistical methods and their applications with Python Practices.
 
+## 👩‍💻 About Me
+Role: Data Analyst
+Skills: Python, SQL (MySQL), Power BI, MS Excel
+Attributes: Proactive Learner, Team Player, Ready to Make an Impact in the Industry
+
 ## 📫 Let's Connect
 LinkedIn:- https://www.linkedin.com/in/sonali-kumari-/
 
