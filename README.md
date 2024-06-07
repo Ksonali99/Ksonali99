@@ -17,7 +17,9 @@ I'm currently working on:
 
 ## 👩‍💻 About Me
 Role: Data Analyst
+
 Skills: Python, SQL (MySQL), Power BI, MS Excel
+
 Attributes: Proactive Learner, Team Player, Ready to Make an Impact in the Industry
 
 ## 📫 Let's Connect
