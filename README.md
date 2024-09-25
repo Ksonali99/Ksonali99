@@ -28,3 +28,6 @@ LinkedIn:- https://www.linkedin.com/in/sonali-kumari-/
 Email:- sona64970@gmail.com
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
+
+# Earned
+![certificate](https://github.com/user-attachments/assets/3243860d-5189-421f-b515-a3b7da2fe340)
